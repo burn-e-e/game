@@ -1,7 +1,6 @@
 import random
 from Player import Player
 from Revolver import Revolver
-
 player_health = 1
 revolver = [0, 0, 0, 0, 0, 0]
 bullet_slot = random.randint(0 , 5)
